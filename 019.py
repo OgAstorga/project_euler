@@ -9,4 +9,3 @@ if __name__ == "__main__":
             if date(year, month, 1).weekday() == 6:
                 ans += 1
     print(ans)
-    
